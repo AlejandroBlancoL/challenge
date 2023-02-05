@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
+.texto1{
+    position: absolute;
+    width: 717px;
+    height: 104px;
+    left: 613px;
+    top: 377px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 50px;
+    text-align: center;
+    
+    color: #06170B;
+}
+.texto2{
+    position: absolute;
+    width: 453px;
+    height: 66px;
+    left: 745px;
+    top: 448px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 188% */
+    
+    text-align: center;
+    
+    color: #666666;
+}
+
+@media (min-width: 320px){
+    .texto1{
+        top: 80px;
+        left: -200px;
+        font-size: 20px;
+    }
+    .texto2{
+        top: 120px;
+        left: 5px;
+        font-size: 12px;
+        width: 300px;
+    }
+}
+
+/* @media (min-width: 425px){
+    .texto1{
+        top: 80px;
+        left: -170px;
+        font-size: 20px;
+    }
+    .texto2{
+        top: 120px;
+        left: 35px;
+        font-size: 12px;
+        width: 300px;
+    }
+} */
+
+@media (min-width: 768px){
+    .texto1{
+        top: 100px;
+        left: 25px;
+        font-size: 40px;
+    }
+    .texto2{
+        top: 160px;
+        left: 190px;
+        font-size: 16px;
+        width: 400px;
+    }
+}
+
+@media (min-width: 1024px){
+    .texto1{
+        left: 169px;
+    }
+    .texto2{
+        left: 300px;
+    }
+}
+
+@media (min-width: 1440px){
+    .texto1{
+        left: 380px;
+    }
+    .texto2{
+        left: 510px;
+    }
+}
+
+@media (min-width: 1600px){
+    * {
+        margin: 0;
+        padding: 0;
+        top: 0;
+    }
+    .texto1{
+        position: absolute;
+        width: 717px;
+        height: 104px;
+        left: 613px;
+        top: 377px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 50px;
+        text-align: center;
+        
+        color: #06170B;
+    }
+    .texto2{
+        position: absolute;
+        width: 453px;
+        height: 66px;
+        left: 745px;
+        top: 448px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        /* or 188% */
+        
+        text-align: center;
+        
+        color: #666666;
+    }
+}
+
+@media (min-width: 2560px){
+    .texto1{
+        left: 980px;
+    }
+    .texto2{
+        left: 1110px;
+    }
+}

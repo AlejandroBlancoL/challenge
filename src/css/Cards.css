@@ -1,0 +1,3471 @@
+.contenedorCarta{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 332.76px;
+    top: 639px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    
+    border-radius: 0px;
+}
+.contenedorCarta2{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 591.76px;
+    top: 639px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 0px;
+}
+.titu{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    /* left: 331px; */
+    top: 150px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+
+    color: #222222;
+}
+.rec{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 137.29px;
+    height: 50px;
+    left: 374.35px;
+    top: 902px;
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.num {
+    position: absolute;
+    width: 9.92px;
+    height: 30px;
+    left: 68.645px;
+    top: 10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+
+    color: #000000;
+}
+.menos{
+    box-sizing: border-box;
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 333px;
+    top: 902px;
+    cursor: pointer;
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+    cursor: pointer;
+}
+.mas{
+    box-sizing: border-box;
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 511.65px;
+    top: 902px;
+    cursor: pointer;
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+    color: transparent;
+}
+.menosB{
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: 10px;
+    top: 25px;
+    border: 1px solid #000000;
+    color: transparent;
+    cursor: pointer;
+}
+.masB{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 8px;
+    top: 12px;
+    cursor: pointer;
+    color: transparent;
+    background-color: #E2E2E2;
+    border: transparent;
+}
+.masB1{
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: -3px;
+    top: 10px;
+    color: transparent;
+border: 1px solid #000000;
+}
+.masB2{
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: -3px;
+    top: 10px;
+    border: 1px solid #000000;
+    transform: rotate(90deg);
+}
+#imagen1{
+    position: absolute;
+    left: 30.94%;
+    right: 60.84%;
+    top: 21.64%;
+    bottom: 76.64%;
+}
+.refri{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    left: 1px;
+    top: 150px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    
+    color: #222222;
+}
+.count2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 138.54px;
+    height: 50px;
+    left: 631.73px;
+    top: 902px;
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.menos2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 41.73px;
+    height: 50px;
+    left: 590px;
+    top: 902px;
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+}
+.mas2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.73px;
+    height: 50px;
+    left: 770.27px;
+    top: 902px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+}
+.imagen2{
+    position: absolute;
+    left: 42.57%;
+    right: 62.47%;
+    top: 17.36%;
+    bottom: 77.82%;
+}
+.imagen22{
+    position: absolute;
+    left: 42.57%;
+    right: 62.47%;
+    top: 30.23%;
+    bottom: 76.36%;
+}
+
+.contenedorCarta3{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 850.76px;
+    top: 639px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 0px;
+}
+.furni{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    left: -2px;
+    top: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    color: #222222;
+}
+.imagen3{
+    position: absolute;
+    left: 31.07%;
+    right: 47.71%;
+    top: 21.36%;
+    bottom: 76.36%;
+}
+.count3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 137.29px;
+    height: 50px;
+    left: 892.35px;
+    top: 901px;
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.menos3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 851px;
+    top: 901px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+}
+.mas3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 1029.65px;
+    top: 901px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.contenedorCarta4{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 1109.76px;
+    top: 639px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 0px;
+}
+.oven{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    left: -2px;
+    top: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    color: #222222;
+}
+.imagen4{
+    position: absolute;
+    left: 30.67%;
+    right: 34.11%;
+    top: 21.64%;
+    bottom: 76.64%;
+}
+.count4{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 138.54px;
+    height: 50px;
+    left: 1149.73px;
+    top: 901px;
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.menos4{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.73px;
+    height: 50px;
+    left: 1108px;
+    top: 901px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+}
+.mas4{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.73px;
+    height: 50px;
+    left: 1288.27px;
+    top: 901px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.contenedorCarta5{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 1368.76px;
+    top: 639px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 0px;
+}
+.imagen5{
+    position: absolute;
+    left: 30.69%;
+    right: 20.68%;
+    top: 21.51%;
+    bottom: 76.48%;
+}
+.sofa{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    left: 0px;
+    top: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+}
+.count5{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 137.29px;
+    height: 50px;
+    left: 1410.35px;
+    top: 902px;
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.menos5{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 1369px;
+    top: 902px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+}
+.mas5{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 1547.65px;
+    top: 902px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.contenedorCarta6{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 332.76px;
+    top: 993px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 0px;
+}
+.imagen6{
+    position: absolute;
+    left: 35.41%;
+    right: 20.22%;
+    top: 32.44%;
+    bottom: 66.06%;
+}
+.tv{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    left: 1px;
+    top: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    color: #222222;
+}
+.menos6{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 333px;
+    top: 1256px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+}
+.count6{
+    box-sizing: border-box;
+    position: absolute;
+    width: 137.29px;
+    height: 50px;
+    left: 374.35px;
+    top: 1256px;
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.mas6{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 511.65px;
+    top: 1256px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.contenedorCarta7{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 591.76px;
+    top: 993px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 0px;
+}
+.wash{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    left: 1px;
+    top: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    
+    color: #222222;
+}
+.imagen7{
+    position: absolute;
+    left: 42.42%;
+    right: 62.27%;
+    top: 32.44%;
+    bottom: 65.93%;
+}
+.count7{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 138.54px;
+    height: 50px;
+    left: 631.73px;
+    top: 1256px;
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.menos7{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.73px;
+    height: 50px;
+    left: 590px;
+    top: 1256px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+}
+.mas7{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.73px;
+    height: 50px;
+    left: 770.27px;
+    top: 1256px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.contenedorCarta8{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 850.76px;
+    top: 993px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 0px;
+}
+.imagen8{
+    position: absolute;
+    left: 32.18%;
+    right: 47.81%;
+    top: 31.91%;
+    bottom: 65.92%;
+}
+.dinin{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    left: 0px;
+    top: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    
+    color: #222222;
+    
+}
+.count8{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 137.29px;
+    height: 50px;
+    left: 892.35px;
+    top: 1255px;
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.menos8{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 851px;
+    top: 1255px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+}
+.mas8{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 1029.65px;
+    top: 1255px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.contenedorCarta9{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 1109.76px;
+    top: 993px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 0px;
+}
+.count9{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 138.54px;
+    height: 50px;
+    left: 1149.73px;
+    top: 1255px;
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.imagen9{
+    position: absolute;
+    left: 32.35%;
+    right: 34.43%;
+    top: 32.38%;
+    bottom: 66.02%; 
+}
+.desk{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    left: 1px;
+    top: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    
+    color: #222222;
+}
+.menos9{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.73px;
+    height: 50px;
+    left: 1108px;
+    top: 1255px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+}
+.mas9{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.73px;
+    height: 50px;
+    left: 1288.27px;
+    top: 1255px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.contenedorCarta10{
+    position: absolute;
+    width: 220.24px;
+    height: 222px;
+    left: 1368.76px;
+    top: 993px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+    border-radius: 0px;
+}
+.count10{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 137.29px;
+    height: 50px;
+    left: 1410.35px;
+    top: 1256px;
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+}
+.imagen10{
+    position: absolute;
+    left: 35%;
+    right: 21.61%;
+    top: 20.91%;
+    bottom: 65.56%;
+}
+.war{
+    position: absolute;
+    width: 222px;
+    height: 74px;
+    left: 1px;
+    top: 150px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    
+    color: #222222;
+}
+.menos10{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 1369px;
+    top: 1256px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px 0px 0px 5px;
+}
+.mas10{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 41.35px;
+    height: 50px;
+    left: 1547.65px;
+    top: 1256px;
+    
+    background: #E2E2E2;
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.summ{
+    position: absolute;
+    width: 407px;
+    height: 81px;
+    left: 740px;
+    top: 1478px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px; 
+    text-align: center;
+    
+    color: #06170B;
+    
+}
+.sumar{
+    position: absolute;
+    width: 222.21px;
+    height: 61.16px;
+    left: 1367px;
+    top: 1375px;
+    
+    background: #FD9255;
+    border-radius: 5px;
+}
+.sumarB{
+    position: absolute;
+    width: 134.55px;
+    height: 24.46px;
+    left: 39px;
+    top: 20px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: capitalize;
+    background: #FD9255;
+    border: transparent;
+    cursor: pointer;
+    color: #222222;
+}
+.clear{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 222.21px;
+    height: 61.16px;
+    left: 331px;
+    top: 1375px;
+    
+    background: #FFFFFF;
+    border: 2px solid #FD9255;
+    border-radius: 5px;
+}
+.clearB{
+    position: absolute;
+    width: 134.55px;
+    height: 24.46px;
+    left: 39px;
+    top: 18px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    border: transparent;
+    cursor: pointer;
+    text-align: center;
+    text-transform: capitalize;
+    
+    color: #222222;
+}
+
+.final{
+    position: absolute;
+    width: 416px;
+    height: 322px;
+    left: 770px;
+    top: 1594px;
+    
+    background: #F9F9F9;
+}
+.totalI{
+    position: absolute;
+    width: 89px;
+    height: 24px;
+    left: 5px;
+    top: 42px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.totalIR{
+    position: absolute;
+    width: 15px;
+    height: 24px;
+    left: 300px;
+    top: 49px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.totalM{
+    position: absolute;
+    width: 63px;
+    height: 24px;
+    left: 5px;
+    top: 90px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #000000;
+}
+.totalM2{
+    position: absolute;
+    width: 34px;
+    height: 24px;
+    left: 300px;
+    top: 95px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.subTotal{
+    position: absolute;
+    width: 68px;
+    height: 24px;
+    left: 5px;
+    top: 138px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.subTotalV{
+    position: absolute;
+    width: 43px;
+    height: 24px;
+    left: 300px;
+    top: 138px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.tax{
+    position: absolute;
+    width: 28px;
+    height: 24px;
+    left: 5px;
+    top: 176px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.taxV{
+    position: absolute;
+    width: 51px;
+    height: 24px;
+    left: 300px;
+    top: 176px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.total2{
+    position: absolute;
+    width: 42px;
+    height: 24px;
+    left: 5px;
+    top: 218px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.total2V{
+    position: absolute;
+    width: 66px;
+    height: 24px;
+    left: 300px;
+    top: 215px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.descuento{
+    position: absolute;
+    width: 126px;
+    height: 24px;
+    left: 5px;
+    top: 262px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    
+    color: #000000;
+}
+.descuentoV{
+    position: absolute;
+    width: 52px;
+    height: 24px;
+    left: 300px;
+    top: 260px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+@media (min-width: 320px){
+    .contenedorCarta{
+        top: 250px;
+        left: 45px;
+    }
+    .menos{
+        top: 480px;
+        left: 60px;
+        width: 40px;
+    }
+    .rec{
+        top: 480px;
+        left: 100px;
+        width: 89px;
+    }
+    .mas{
+        top: 480px;
+        left: 190px;
+        width: 40px;
+    }
+    .num{
+        left: 40px;
+    }
+    .contenedorCarta2{
+        top: 560px;
+        left: 45px;
+    }
+    .menos2{
+        width: 40px;
+        top: 790px;
+        left: 60px;
+    }
+    .mas2{
+        width: 40px;
+        top: 790px;
+        left: 190px;
+    }
+    .count2{
+        width: 89px;
+        top: 790px;
+        left: 100px;
+    }
+    .contenedorCarta3{
+        left: 45px;
+        top: 860px;
+    }
+    .menos3{
+        left: 60px;
+        width: 40px;
+        top: 1090px;
+    }
+    .mas3{
+        width: 40px;
+        top: 1090px;
+        left: 190px;
+    }
+    .count3{
+        width: 89px;
+        top: 1090px;
+        left: 100px;
+    }
+    .contenedorCarta4{
+        left: 45px;
+        top: 1160px;
+    }
+    .menos4{
+        left: 60px;
+        width: 40px;
+        top: 1390px;
+    }
+    .mas4{
+        left: 190px;
+        width: 40px;
+        top: 1390px;
+    }
+    .count4{
+        width: 89px;
+        left: 100px;
+        top: 1390px;
+    }
+    .contenedorCarta5{
+        left: 45px;
+        top: 1460px;
+    }
+    .menos5{
+        left: 60px;
+        width: 40px;
+        top: 1690px;
+    }
+    .mas5{
+        left: 190px;
+        width: 40px;
+        top: 1690px;
+    }
+    .count5{
+        left: 100px;
+        width: 89px;
+        top: 1690px;
+    }
+    .contenedorCarta6{
+        left: 45px;
+        top: 1760px;
+    }
+    .menos6{
+        left: 60px;
+        width: 40px;
+        top: 1990px;
+    }
+    .mas6{
+        left: 190px;
+        width: 40px;
+        top: 1990px;
+    }
+    .count6{
+        left: 100px;
+        width: 89px;
+        top: 1990px;
+    }
+    .contenedorCarta7{
+        left: 45px;
+        top: 2060px;
+    }
+    .menos7{
+        left: 60px;
+        width: 40px;
+        top: 2300px;
+    }
+    .mas7{
+        left: 190px;
+        width: 40px;
+        top: 2300px;
+    }
+    .count7{
+        left: 100px;
+        width: 89px;
+        top: 2300px;
+    }
+    .contenedorCarta8{
+        left: 45px;
+        top: 2360px;
+    }
+    .menos8{
+        left: 60px;
+        width: 40px;
+        top: 2590px;
+    }
+    .mas8{
+        left: 190px;
+        width: 40px;
+        top: 2590px;
+    }
+    .count8{
+        left: 100px;
+        width: 89px;
+        top: 2590px;
+    }
+    .contenedorCarta9{
+        left: 45px;
+        top: 2650px;
+    }
+    .menos9{
+        left: 60px;
+        width: 40px;
+        top: 2880px;
+    }
+    .mas9{
+        left: 190px;
+        width: 40px;
+        top: 2880px;
+    }
+    .count9{
+        left: 100px;
+        width: 89px;
+        top: 2880px;
+    }
+    .contenedorCarta10{
+        left: 45px;
+        top: 2950px;
+    }
+    .menos10{
+        left: 60px;
+        width: 40px;
+        top: 3180px;
+    }
+    .mas10{
+        left: 190px;
+        width: 40px;
+        top: 3180px;
+    }
+    .count10{
+        left: 100px;
+        width: 89px;
+        top: 3180px;
+    }
+    .clear{
+        left: 45px;
+        top: 3300px;
+    }
+    .sumar{
+        left: 45px;
+        top: 3380px;
+    }
+    .summ{
+        left: -40px;
+        top: 3500px;
+    }
+    .final{
+        left: 20px;
+        top: 3540px;
+        width: 280px;
+    }
+    .clearB{background: #ffffff; border: transparent;}
+    .totalIR{left: 220px;}
+    .totalM2{left: 220px;}
+    .subTotalV{left: 220px;}
+    .taxV{left: 220px;}
+    .total2V{left: 220px;}
+    .descuentoV{left: 220px;}
+}
+
+/* @media (min-width: 425px){
+    .contenedorCarta{
+        top: 250px;
+        left: 80px;
+    }
+    .menos{
+        top: 480px;
+        left: 95px;
+        width: 40px;
+    }
+    .rec{
+        top: 480px;
+        left: 135px;
+        width: 89px;
+    }
+    .mas{
+        top: 480px;
+        left: 225px;
+        width: 40px;
+    }
+    .num{
+        left: 40px;
+    }
+    .contenedorCarta2{
+        top: 560px;
+        left: 80px;
+    }
+    .menos2{
+        width: 40px;
+        top: 790px;
+        left: 95px;
+    }
+    .mas2{
+        width: 40px;
+        top: 790px;
+        left: 225px;
+    }
+    .count2{
+        width: 89px;
+        top: 790px;
+        left: 135px;
+    }
+    .contenedorCarta3{
+        left: 80px;
+        top: 860px;
+    }
+    .menos3{
+        left: 95px;
+        width: 40px;
+        top: 1090px;
+    }
+    .mas3{
+        width: 40px;
+        top: 1090px;
+        left: 225px;
+    }
+    .count3{
+        width: 89px;
+        top: 1090px;
+        left: 135px;
+    }
+    .contenedorCarta4{
+        left: 80px;
+        top: 1160px;
+    }
+    .menos4{
+        left: 95px;
+        width: 40px;
+        top: 1390px;
+    }
+    .mas4{
+        left: 225px;
+        width: 40px;
+        top: 1390px;
+    }
+    .count4{
+        width: 89px;
+        left: 135px;
+        top: 1390px;
+    }
+    .contenedorCarta5{
+        left: 80px;
+        top: 1460px;
+    }
+    .menos5{
+        left: 95px;
+        width: 40px;
+        top: 1690px;
+    }
+    .mas5{
+        left: 225px;
+        width: 40px;
+        top: 1690px;
+    }
+    .count5{
+        left: 135px;
+        width: 89px;
+        top: 1690px;
+    }
+    .contenedorCarta6{
+        left: 80px;
+        top: 1760px;
+    }
+    .menos6{
+        left: 95px;
+        width: 40px;
+        top: 1990px;
+    }
+    .mas6{
+        left: 225px;
+        width: 40px;
+        top: 1990px;
+    }
+    .count6{
+        left: 135px;
+        width: 89px;
+        top: 1990px;
+    }
+    .contenedorCarta7{
+        left: 80px;
+        top: 2060px;
+    }
+    .menos7{
+        left: 95px;
+        width: 40px;
+        top: 2300px;
+    }
+    .mas7{
+        left: 225px;
+        width: 40px;
+        top: 2300px;
+    }
+    .count7{
+        left: 135px;
+        width: 89px;
+        top: 2300px;
+    }
+    .contenedorCarta8{
+        left: 80px;
+        top: 2360px;
+    }
+    .menos8{
+        left: 95px;
+        width: 40px;
+        top: 2590px;
+    }
+    .mas8{
+        left: 225px;
+        width: 40px;
+        top: 2590px;
+    }
+    .count8{
+        left: 135px;
+        width: 89px;
+        top: 2590px;
+    }
+    .contenedorCarta9{
+        left: 80px;
+        top: 2650px;
+    }
+    .menos9{
+        left: 95px;
+        width: 40px;
+        top: 2880px;
+    }
+    .mas9{
+        left: 225px;
+        width: 40px;
+        top: 2880px;
+    }
+    .count9{
+        left: 135px;
+        width: 89px;
+        top: 2880px;
+    }
+    .contenedorCarta10{
+        left: 80px;
+        top: 2950px;
+    }
+    .menos10{
+        left: 95px;
+        width: 40px;
+        top: 3180px;
+    }
+    .mas10{
+        left: 225px;
+        width: 40px;
+        top: 3180px;
+    }
+    .count10{
+        left: 135px;
+        width: 89px;
+        top: 3180px;
+    }
+    .clear{
+        left: 80px;
+        top: 3300px;
+    }
+    .sumar{
+        left: 80px;
+        top: 3380px;
+    }
+    .summ{
+        left: -5px;
+        top: 3500px;
+    }
+    .final{
+        left: 55px;
+        top: 3540px;
+        width: 280px;
+    }
+    .totalIR{left: 245px;}
+    .totalM2{left: 245px;}
+    .subTotalV{left: 245px;}
+    .taxV{left: 245px;}
+    .total2V{left: 245px;}
+    .descuentoV{left: 245px;}
+} */
+
+@media (min-width: 768px){
+    .contenedorCarta{
+        top: 250px;
+        left: 280px;
+    }
+    .menos{
+        top: 480px;
+        left: 255px;
+        width: 40px;
+    }
+    .rec{
+        top: 480px;
+        left: 296px;
+        width: 188px;
+    }
+    .mas{
+        top: 480px;
+        left: 485px;
+        width: 40px;
+    }
+    .num{
+        left: 94px;
+    }
+    .contenedorCarta2{
+        top: 560px;
+        left: 280px;
+    }
+    .menos2{
+        width: 40px;
+        top: 790px;
+        left: 255px;
+    }
+    .mas2{
+        width: 40px;
+        top: 790px;
+        left: 485px;
+    }
+    .count2{
+        width: 188px;
+        top: 790px;
+        left: 296px;
+    }
+    .contenedorCarta3{
+        left: 280px;
+        top: 860px;
+    }
+    .menos3{
+        left: 255px;
+        width: 40px;
+        top: 1090px;
+    }
+    .mas3{
+        width: 40px;
+        top: 1090px;
+        left: 485px;
+    }
+    .count3{
+        width: 188px;
+        top: 1090px;
+        left: 296px;
+    }
+    .contenedorCarta4{
+        left: 280px;
+        top: 1160px;
+    }
+    .menos4{
+        left: 255px;
+        width: 40px;
+        top: 1390px;
+    }
+    .mas4{
+        left: 485px;
+        width: 40px;
+        top: 1390px;
+    }
+    .count4{
+        width: 188px;
+        left: 296px;
+        top: 1390px;
+    }
+    .contenedorCarta5{
+        left: 280px;
+        top: 1460px;
+    }
+    .menos5{
+        left: 255px;
+        width: 40px;
+        top: 1690px;
+    }
+    .mas5{
+        left: 485px;
+        width: 40px;
+        top: 1690px;
+    }
+    .count5{
+        left: 296px;
+        width: 188px;
+        top: 1690px;
+    }
+    .contenedorCarta6{
+        left: 280px;
+        top: 1760px;
+    }
+    .menos6{
+        left: 255px;
+        width: 40px;
+        top: 1990px;
+    }
+    .mas6{
+        left: 485px;
+        width: 40px;
+        top: 1990px;
+    }
+    .count6{
+        left: 296px;
+        width: 188px;
+        top: 1990px;
+    }
+    .contenedorCarta7{
+        left: 280px;
+        top: 2060px;
+    }
+    .menos7{
+        left: 255px;
+        width: 40px;
+        top: 2300px;
+    }
+    .mas7{
+        left: 485px;
+        width: 40px;
+        top: 2300px;
+    }
+    .count7{
+        left: 296px;
+        width: 188px;
+        top: 2300px;
+    }
+    .contenedorCarta8{
+        left: 280px;
+        top: 2360px;
+    }
+    .menos8{
+        left: 255px;
+        width: 40px;
+        top: 2590px;
+    }
+    .mas8{
+        left: 485px;
+        width: 40px;
+        top: 2590px;
+    }
+    .count8{
+        left: 296px;
+        width: 188px;
+        top: 2590px;
+    }
+    .contenedorCarta9{
+        left: 280px;
+        top: 2650px;
+    }
+    .menos9{
+        left: 255px;
+        width: 40px;
+        top: 2880px;
+    }
+    .mas9{
+        left: 485px;
+        width: 40px;
+        top: 2880px;
+    }
+    .count9{
+        left: 296px;
+        width: 188px;
+        top: 2880px;
+    }
+    .contenedorCarta10{
+        left: 280px;
+        top: 2950px;
+    }
+    .menos10{
+        left: 255px;
+        width: 40px;
+        top: 3180px;
+    }
+    .mas10{
+        left: 485px;
+        width: 40px;
+        top: 3180px;
+    }
+    .count10{
+        left: 296px;
+        width: 188px;
+        top: 3180px;
+    }
+    .clear{
+        left: 80px;
+        top: 3300px;
+    }
+    .sumar{
+        left: 470px;
+        top: 3300px;
+    }
+    .summ{
+        left: 185px;
+        top: 3500px;
+    }
+    .final{
+        left: 245px;
+        top: 3560px;
+        width: 280px;
+    }
+    .totalIR{left: 245px;}
+    .totalM2{left: 245px;}
+    .subTotalV{left: 245px;}
+    .taxV{left: 245px;}
+    .total2V{left: 245px;}
+    .descuentoV{left: 245px;}
+}
+
+@media (min-width: 1440px){
+    .contenedorCarta{
+        top: 560px;
+        left: 20px;
+    }
+    .menos{
+        top: 790px;
+        left: 35px;
+        width: 40px;
+    }
+    .rec{
+        top: 790px;
+        left: 75px;
+        width: 89px;
+    }
+    .mas{
+        top: 790px;
+        left: 165px;
+        width: 40px;
+    }
+    .num{
+        left: 40px;
+    }
+    .contenedorCarta2{
+        top: 560px;
+        left: 280px;
+    }
+    .menos2{
+        width: 40px;
+        top: 790px;
+        left: 295px;
+    }
+    .mas2{
+        width: 40px;
+        top: 790px;
+        left: 425px;
+    }
+    .count2{
+        width: 89px;
+        top: 790px;
+        left: 335px;
+    }
+    .contenedorCarta3{
+        left: 530px;
+        top: 560px;
+    }
+    .menos3{
+        left: 558px;
+        width: 40px;
+        top: 790px;
+    }
+    .mas3{
+        width: 40px;
+        top: 790px;
+        left: 685px;
+    }
+    .count3{
+        width: 89px;
+        top: 790px;
+        left: 597px;
+    }
+    .contenedorCarta4{
+        left: 780px;
+        top: 560px;
+    }
+    .menos4{
+        left: 795px;
+        width: 40px;
+        top: 790px;
+    }
+    .mas4{
+        left: 925px;
+        width: 40px;
+        top: 790px;
+    }
+    .count4{
+        width: 89px;
+        left: 835px;
+        top: 790px;
+    }
+    .contenedorCarta5{
+        left: 20px;
+        top: 890px;
+    }
+    .menos5{
+        left: 35px;
+        width: 40px;
+        top: 1125px;
+    }
+    .mas5{
+        left: 165px;
+        width: 40px;
+        top: 1125px;
+    }
+    .count5{
+        left: 75px;
+        width: 89px;
+        top: 1125px;
+    }
+    .contenedorCarta6{
+        left: 280px;
+        top: 890px;
+    }
+    .menos6{
+        left: 295px;
+        width: 40px;
+        top: 1125px;
+    }
+    .mas6{
+        left: 425px;
+        width: 40px;
+        top: 1125px;
+    }
+    .count6{
+        left: 335px;
+        width: 89px;
+        top: 1125px;
+    }
+    .contenedorCarta7{
+        left: 530px;
+        top: 890px;
+    }
+    .menos7{
+        left: 555px;
+        width: 40px;
+        top: 1125px;
+    }
+    .mas7{
+        left: 685px;
+        width: 40px;
+        top: 1125px;
+    }
+    .count7{
+        left: 595px;
+        width: 89px;
+        top: 1125px;
+    }
+    .contenedorCarta8{
+        left: 780px;
+        top: 890px;
+    }
+    .menos8{
+        left: 795px;
+        width: 40px;
+        top: 1125px;
+    }
+    .mas8{
+        left: 925px;
+        width: 40px;
+        top: 1125px;
+    }
+    .count8{
+        left: 835px;
+        width: 89px;
+        top: 1125px;
+    }
+    .contenedorCarta9{
+        left: 140px;
+        top: 1200px;
+    }
+    .menos9{
+        left: 155px;
+        width: 40px;
+        top: 1440px;
+    }
+    .mas9{
+        left: 286px;
+        width: 40px;
+        top: 1440px;
+    }
+    .count9{
+        left: 196px;
+        width: 89px;
+        top: 1440px;
+    }
+    .contenedorCarta10{
+        left: 620px;
+        top: 1200px;
+    }
+    .menos10{
+        left: 650px;
+        width: 40px;
+        top: 1440px;
+    }
+    .mas10{
+        left: 783px;
+        width: 40px;
+        top: 1440px;
+    }
+    .count10{
+        left: 692px;
+        width: 89px;
+        top: 1440px;
+    }
+    .clear{
+        left: 80px;
+        top: 1600px;
+    }
+    .sumar{
+        left: 692px;
+        top: 1600px;
+    }
+    .summ{
+        left: 297px;
+        top: 1800px;
+    }
+    .final{
+        left: 305px;
+        top: 1880px;
+        width: 380px;
+    }
+}
+
+@media (min-width: 1024px){
+    .contenedorCarta{
+        top: 560px;
+        left: 20px;
+    }
+    .menos{
+        top: 790px;
+        left: 35px;
+        width: 40px;
+    }
+    .rec{
+        top: 790px;
+        left: 75px;
+        width: 89px;
+    }
+    .mas{
+        top: 790px;
+        left: 165px;
+        width: 40px;
+    }
+    .num{
+        left: 40px;
+    }
+    .contenedorCarta2{
+        top: 560px;
+        left: 280px;
+    }
+    .menos2{
+        width: 40px;
+        top: 790px;
+        left: 295px;
+    }
+    .mas2{
+        width: 40px;
+        top: 790px;
+        left: 425px;
+    }
+    .count2{
+        width: 89px;
+        top: 790px;
+        left: 335px;
+    }
+    .contenedorCarta3{
+        left: 530px;
+        top: 560px;
+    }
+    .menos3{
+        left: 558px;
+        width: 40px;
+        top: 790px;
+    }
+    .mas3{
+        width: 40px;
+        top: 790px;
+        left: 685px;
+    }
+    .count3{
+        width: 89px;
+        top: 790px;
+        left: 597px;
+    }
+    .contenedorCarta4{
+        left: 780px;
+        top: 560px;
+    }
+    .menos4{
+        left: 795px;
+        width: 40px;
+        top: 790px;
+    }
+    .mas4{
+        left: 925px;
+        width: 40px;
+        top: 790px;
+    }
+    .count4{
+        width: 89px;
+        left: 835px;
+        top: 790px;
+    }
+    .contenedorCarta5{
+        left: 20px;
+        top: 890px;
+    }
+    .menos5{
+        left: 35px;
+        width: 40px;
+        top: 1125px;
+    }
+    .mas5{
+        left: 165px;
+        width: 40px;
+        top: 1125px;
+    }
+    .count5{
+        left: 75px;
+        width: 89px;
+        top: 1125px;
+    }
+    .contenedorCarta6{
+        left: 280px;
+        top: 890px;
+    }
+    .menos6{
+        left: 295px;
+        width: 40px;
+        top: 1125px;
+    }
+    .mas6{
+        left: 425px;
+        width: 40px;
+        top: 1125px;
+    }
+    .count6{
+        left: 335px;
+        width: 89px;
+        top: 1125px;
+    }
+    .contenedorCarta7{
+        left: 530px;
+        top: 890px;
+    }
+    .menos7{
+        left: 555px;
+        width: 40px;
+        top: 1125px;
+    }
+    .mas7{
+        left: 685px;
+        width: 40px;
+        top: 1125px;
+    }
+    .count7{
+        left: 595px;
+        width: 89px;
+        top: 1125px;
+    }
+    .contenedorCarta8{
+        left: 780px;
+        top: 890px;
+    }
+    .menos8{
+        left: 795px;
+        width: 40px;
+        top: 1125px;
+    }
+    .mas8{
+        left: 925px;
+        width: 40px;
+        top: 1125px;
+    }
+    .count8{
+        left: 835px;
+        width: 89px;
+        top: 1125px;
+    }
+    .contenedorCarta9{
+        left: 140px;
+        top: 1200px;
+    }
+    .menos9{
+        left: 155px;
+        width: 40px;
+        top: 1440px;
+    }
+    .mas9{
+        left: 286px;
+        width: 40px;
+        top: 1440px;
+    }
+    .count9{
+        left: 196px;
+        width: 89px;
+        top: 1440px;
+    }
+    .contenedorCarta10{
+        left: 620px;
+        top: 1200px;
+    }
+    .menos10{
+        left: 650px;
+        width: 40px;
+        top: 1440px;
+    }
+    .mas10{
+        left: 783px;
+        width: 40px;
+        top: 1440px;
+    }
+    .count10{
+        left: 692px;
+        width: 89px;
+        top: 1440px;
+    }
+    .clear{
+        left: 80px;
+        top: 1600px;
+    }
+    .sumar{
+        left: 692px;
+        top: 1600px;
+    }
+    .summ{
+        left: 297px;
+        top: 1800px;
+    }
+    .final{
+        left: 305px;
+        top: 1880px;
+        width: 380px;
+    }
+}
+
+/* @media (min-width: 1440px){
+    .contenedorCarta{
+        left: 72px;
+    }
+    .menos{
+        left: 73px;
+    }
+    .rec{
+        left: 114px;
+    }
+    .mas{
+        left: 251px;
+    }
+    .contenedorCarta2{
+        left: 341px;
+    }
+    .menos2{
+        left: 340px;
+    }
+    .mas2{
+        left: 520.27px;
+    }
+    .count2{
+        left: 381.73px;
+    }
+    .contenedorCarta3{
+        left: 600.76px;
+    }
+    .menos3{
+        left: 601px;
+    }
+    .mas3{
+        left: 779.65px;
+    }
+    .count3{
+        left: 642.35px;
+    }
+    .contenedorCarta4{
+        left: 859px;
+    }
+    .menos4{
+        left: 858px;
+    }
+    .mas4{
+        left: 1038.27px;
+    }
+    .count4{
+        left: 899.73px;
+    }
+    .contenedorCarta5{
+        left: 1118.76px;
+    }
+    .menos5{
+        left: 1119px;
+    }
+    .mas5{
+        left: 1297.65px;
+    }
+    .count5{
+        left: 1160.35px;
+    }
+    .contenedorCarta6{
+        left: 72px;
+    }
+    .menos6{
+        left: 73px;
+    }
+    .mas6{
+        left: 251px;
+    }
+    .count6{
+        left: 114px;
+    }
+    .contenedorCarta7{
+        left: 341px;
+    }
+    .menos7{
+        left: 340px;
+    }
+    .mas7{
+        left: 520.27px;
+    }
+    .count7{
+        left: 381.73px;
+    }
+    .contenedorCarta8{
+        left: 600.76px;
+    }
+    .menos8{
+        left: 601px;
+    }
+    .mas8{
+        left: 779.65px;
+    }
+    .count8{
+        left: 642.35px;
+    }
+    .contenedorCarta9{
+        left: 859px;
+    }
+    .menos9{
+        left: 858px;
+    }
+    .mas9{
+        left: 1038.27px;
+    }
+    .count9{
+        left: 899.73px;
+    }
+    .contenedorCarta10{
+        left: 1118.76px;
+    }
+    .menos10{
+        left: 1119px;
+    }
+    .mas10{
+        left: 1297.65px;
+    }
+    .count10{
+        left: 1160.35px;
+    }
+    .clear{
+        left: 260px;
+        top: 1500px;
+    }
+    .sumar{
+        left: 992px;
+        top: 1500px;
+    }
+    .summ{
+        left: 547px;
+        top: 1800px;
+    }
+    .final{
+        left: 570px;
+        top: 1880px;
+        width: 380px;
+    }
+} */
+
+@media (min-width: 1600px){
+    .contenedorCarta{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 332.76px;
+        top: 639px;
+    
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        
+        border-radius: 0px;
+    }
+    .contenedorCarta2{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 591.76px;
+        top: 639px;
+    
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 0px;
+    }
+    .titu{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        /* left: 331px; */
+        top: 150px;
+    
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+    
+        color: #222222;
+    }
+    .rec{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 137.29px;
+        height: 50px;
+        left: 374.35px;
+        top: 902px;
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .num {
+        position: absolute;
+        width: 9.92px;
+        height: 30px;
+        left: 68.645px;
+        top: 10px;
+    
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        /* identical to box height, or 150% */
+    
+    
+        color: #000000;
+    }
+    .menos{
+        box-sizing: border-box;
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 333px;
+        top: 902px;
+        cursor: pointer;
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+        cursor: pointer;
+    }
+    .mas{
+        box-sizing: border-box;
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 511.65px;
+        top: 902px;
+        cursor: pointer;
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+        color: transparent;
+    }
+    .menosB{
+        position: absolute;
+        width: 20px;
+        height: 0px;
+        left: 10px;
+        top: 25px;
+        border: 1px solid #000000;
+        color: transparent;
+        cursor: pointer;
+    }
+    .masB{
+        position: absolute;
+        width: 0px;
+        height: 0px;
+        left: 8px;
+        top: 12px;
+        cursor: pointer;
+        color: transparent;
+        background-color: #E2E2E2;
+        border: transparent;
+    }
+    .masB1{
+        position: absolute;
+        width: 20px;
+        height: 0px;
+        left: -3px;
+        top: 10px;
+        color: transparent;
+    border: 1px solid #000000;
+    }
+    .masB2{
+        position: absolute;
+        width: 20px;
+        height: 0px;
+        left: -3px;
+        top: 10px;
+        border: 1px solid #000000;
+        transform: rotate(90deg);
+    }
+    #imagen1{
+        position: absolute;
+        left: 30.94%;
+        right: 60.84%;
+        top: 21.64%;
+        bottom: 76.64%;
+    }
+    .refri{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        left: 1px;
+        top: 150px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+        
+        color: #222222;
+    }
+    .count2 {
+        box-sizing: border-box;
+        position: absolute;
+        width: 138.54px;
+        height: 50px;
+        left: 631.73px;
+        top: 902px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .menos2{
+        box-sizing: border-box;
+        position: absolute;
+        width: 41.73px;
+        height: 50px;
+        left: 590px;
+        top: 902px;
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .mas2{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.73px;
+        height: 50px;
+        left: 770.27px;
+        top: 902px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    .imagen2{
+        position: absolute;
+        left: 42.57%;
+        right: 62.47%;
+        top: 17.36%;
+        bottom: 77.82%;
+    }
+    .imagen22{
+        position: absolute;
+        left: 42.57%;
+        right: 62.47%;
+        top: 30.23%;
+        bottom: 76.36%;
+    }
+    
+    .contenedorCarta3{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 850.76px;
+        top: 639px;
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 0px;
+    }
+    .furni{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        left: -2px;
+        top: 150px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+        color: #222222;
+    }
+    .imagen3{
+        position: absolute;
+        left: 31.07%;
+        right: 47.71%;
+        top: 21.36%;
+        bottom: 76.36%;
+    }
+    .count3{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 137.29px;
+        height: 50px;
+        left: 892.35px;
+        top: 901px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .menos3{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 851px;
+        top: 901px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .mas3{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 1029.65px;
+        top: 901px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    
+    .contenedorCarta4{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 1109.76px;
+        top: 639px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 0px;
+    }
+    .oven{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        left: -2px;
+        top: 150px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+        color: #222222;
+    }
+    .imagen4{
+        position: absolute;
+        left: 30.67%;
+        right: 34.11%;
+        top: 21.64%;
+        bottom: 76.64%;
+    }
+    .count4{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 138.54px;
+        height: 50px;
+        left: 1149.73px;
+        top: 901px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .menos4{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.73px;
+        height: 50px;
+        left: 1108px;
+        top: 901px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .mas4{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.73px;
+        height: 50px;
+        left: 1288.27px;
+        top: 901px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    
+    .contenedorCarta5{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 1368.76px;
+        top: 639px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 0px;
+    }
+    .imagen5{
+        position: absolute;
+        left: 30.69%;
+        right: 20.68%;
+        top: 21.51%;
+        bottom: 76.48%;
+    }
+    .sofa{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        left: 0px;
+        top: 150px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+    }
+    .count5{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 137.29px;
+        height: 50px;
+        left: 1410.35px;
+        top: 902px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .menos5{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 1369px;
+        top: 902px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .mas5{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 1547.65px;
+        top: 902px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    
+    .contenedorCarta6{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 332.76px;
+        top: 993px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 0px;
+    }
+    .imagen6{
+        position: absolute;
+        left: 35.41%;
+        right: 20.22%;
+        top: 32.44%;
+        bottom: 66.06%;
+    }
+    .tv{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        left: 1px;
+        top: 150px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+        color: #222222;
+    }
+    .menos6{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 333px;
+        top: 1256px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .count6{
+        box-sizing: border-box;
+        position: absolute;
+        width: 137.29px;
+        height: 50px;
+        left: 374.35px;
+        top: 1256px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .mas6{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 511.65px;
+        top: 1256px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    
+    .contenedorCarta7{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 591.76px;
+        top: 993px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 0px;
+    }
+    .wash{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        left: 1px;
+        top: 150px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+        
+        color: #222222;
+    }
+    .imagen7{
+        position: absolute;
+        left: 42.42%;
+        right: 62.27%;
+        top: 32.44%;
+        bottom: 65.93%;
+    }
+    .count7{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 138.54px;
+        height: 50px;
+        left: 631.73px;
+        top: 1256px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .menos7{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.73px;
+        height: 50px;
+        left: 590px;
+        top: 1256px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .mas7{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.73px;
+        height: 50px;
+        left: 770.27px;
+        top: 1256px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    
+    .contenedorCarta8{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 850.76px;
+        top: 993px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 0px;
+    }
+    .imagen8{
+        position: absolute;
+        left: 32.18%;
+        right: 47.81%;
+        top: 31.91%;
+        bottom: 65.92%;
+    }
+    .dinin{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        left: 0px;
+        top: 150px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+        
+        color: #222222;
+        
+    }
+    .count8{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 137.29px;
+        height: 50px;
+        left: 892.35px;
+        top: 1255px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .menos8{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 851px;
+        top: 1255px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .mas8{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 1029.65px;
+        top: 1255px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    
+    .contenedorCarta9{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 1109.76px;
+        top: 993px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 0px;
+    }
+    .count9{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 138.54px;
+        height: 50px;
+        left: 1149.73px;
+        top: 1255px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .imagen9{
+        position: absolute;
+        left: 32.35%;
+        right: 34.43%;
+        top: 32.38%;
+        bottom: 66.02%; 
+    }
+    .desk{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        left: 1px;
+        top: 150px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+        
+        color: #222222;
+    }
+    .menos9{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.73px;
+        height: 50px;
+        left: 1108px;
+        top: 1255px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .mas9{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.73px;
+        height: 50px;
+        left: 1288.27px;
+        top: 1255px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    
+    .contenedorCarta10{
+        position: absolute;
+        width: 220.24px;
+        height: 222px;
+        left: 1368.76px;
+        top: 993px;
+        
+        background: #FFFFFF;
+        box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 0px;
+    }
+    .count10{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 137.29px;
+        height: 50px;
+        left: 1410.35px;
+        top: 1256px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E2E2E2;
+    }
+    .imagen10{
+        position: absolute;
+        left: 35%;
+        right: 21.61%;
+        top: 20.91%;
+        bottom: 65.56%;
+    }
+    .war{
+        position: absolute;
+        width: 222px;
+        height: 74px;
+        left: 1px;
+        top: 150px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 32px;
+        text-align: center;
+        
+        color: #222222;
+    }
+    .menos10{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 1369px;
+        top: 1256px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .mas10{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 41.35px;
+        height: 50px;
+        left: 1547.65px;
+        top: 1256px;
+        
+        background: #E2E2E2;
+        border: 1px solid #E2E2E2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    
+    .summ{
+        position: absolute;
+        width: 407px;
+        height: 81px;
+        left: 740px;
+        top: 1478px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 45px; 
+        text-align: center;
+        
+        color: #06170B;
+        
+    }
+    .sumar{
+        position: absolute;
+        width: 222.21px;
+        height: 61.16px;
+        left: 1367px;
+        top: 1375px;
+        
+        background: #FD9255;
+        border-radius: 5px;
+    }
+    .sumarB{
+        position: absolute;
+        width: 134.55px;
+        height: 24.46px;
+        left: 39px;
+        top: 20px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        text-transform: capitalize;
+        background: #FD9255;
+        border: transparent;
+        cursor: pointer;
+        color: #222222;
+    }
+    .clear{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 222.21px;
+        height: 61.16px;
+        left: 331px;
+        top: 1375px;
+        
+        background: #FFFFFF;
+        border: 2px solid #FD9255;
+        border-radius: 5px;
+    }
+    .clearB{
+        position: absolute;
+        width: 134.55px;
+        height: 24.46px;
+        left: 39px;
+        top: 18px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        border: transparent;
+        cursor: pointer;
+        text-align: center;
+        text-transform: capitalize;
+        
+        color: #222222;
+    }
+    
+    .final{
+        position: absolute;
+        width: 416px;
+        height: 322px;
+        left: 770px;
+        top: 1594px;
+        
+        background: #F9F9F9;
+    }
+    .totalI{
+        position: absolute;
+        width: 89px;
+        height: 24px;
+        left: 5px;
+        top: 42px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .totalIR{
+        position: absolute;
+        width: 15px;
+        height: 24px;
+        left: 300px;
+        top: 49px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .totalM{
+        position: absolute;
+        width: 63px;
+        height: 24px;
+        left: 5px;
+        top: 90px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        color: #000000;
+    }
+    .totalM2{
+        position: absolute;
+        width: 34px;
+        height: 24px;
+        left: 300px;
+        top: 95px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .subTotal{
+        position: absolute;
+        width: 68px;
+        height: 24px;
+        left: 5px;
+        top: 138px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .subTotalV{
+        position: absolute;
+        width: 43px;
+        height: 24px;
+        left: 300px;
+        top: 138px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .tax{
+        position: absolute;
+        width: 28px;
+        height: 24px;
+        left: 5px;
+        top: 176px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .taxV{
+        position: absolute;
+        width: 51px;
+        height: 24px;
+        left: 300px;
+        top: 176px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .total2{
+        position: absolute;
+        width: 42px;
+        height: 24px;
+        left: 5px;
+        top: 218px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .total2V{
+        position: absolute;
+        width: 66px;
+        height: 24px;
+        left: 300px;
+        top: 215px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .descuento{
+        position: absolute;
+        width: 126px;
+        height: 24px;
+        left: 5px;
+        top: 262px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        
+        color: #000000;
+    }
+    .descuentoV{
+        position: absolute;
+        width: 52px;
+        height: 24px;
+        left: 300px;
+        top: 260px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: capitalize;
+        color: #000000;
+    }
+}
+
+@media (min-width: 2560px){
+    .contenedorCarta{
+        left: 672px;
+    }
+    .menos{
+        left: 673px;
+    }
+    .rec{
+        left: 714px;
+    }
+    .mas{
+        left: 851px;
+    }
+    .contenedorCarta2{
+        left: 941px;
+    }
+    .menos2{
+        left: 940px;
+    }
+    .mas2{
+        left: 1120.27px;
+    }
+    .count2{
+        left: 981.73px;
+    }
+    .contenedorCarta3{
+        left: 1200.76px;
+    }
+    .menos3{
+        left: 1201px;
+    }
+    .mas3{
+        left: 1379.65px;
+    }
+    .count3{
+        left: 1242.35px;
+    }
+    .contenedorCarta4{
+        left: 1459px;
+    }
+    .menos4{
+        left: 1458px;
+    }
+    .mas4{
+        left: 1638.27px;
+    }
+    .count4{
+        left: 1499.73px;
+    }
+    .contenedorCarta5{
+        left: 1718.76px;
+    }
+    .menos5{
+        left: 1719px;
+    }
+    .mas5{
+        left: 1897.65px;
+    }
+    .count5{
+        left: 1760.35px;
+    }
+    .contenedorCarta6{
+        left: 672px;
+    }
+    .menos6{
+        left: 673px;
+    }
+    .mas6{
+        left: 851px;
+    }
+    .count6{
+        left: 714px;
+    }
+    .contenedorCarta7{
+        left: 941px;
+    }
+    .menos7{
+        left: 940px;
+    }
+    .mas7{
+        left: 1120.27px;
+    }
+    .count7{
+        left: 981.73px;
+    }
+    .contenedorCarta8{
+        left: 1200.76px;
+    }
+    .menos8{
+        left: 1201px;
+    }
+    .mas8{
+        left: 1379.65px;
+    }
+    .count8{
+        left: 1242.35px;
+    }
+    .contenedorCarta9{
+        left: 1459px;
+    }
+    .menos9{
+        left: 1458px;
+    }
+    .mas9{
+        left: 1638.27px;
+    }
+    .count9{
+        left: 1499.73px;
+    }
+    .contenedorCarta10{
+        left: 1718.76px;
+    }
+    .menos10{
+        left: 1719px;
+    }
+    .mas10{
+        left: 1897.65px;
+    }
+    .count10{
+        left: 1760.35px;
+    }
+    .clear{
+        left: 760px;
+        top: 1500px;
+    }
+    .sumar{
+        left: 1692px;
+        top: 1500px;
+    }
+    .summ{
+        left: 1107px;
+        top: 1800px;
+    }
+    .final{
+        left: 1140px;
+        top: 1880px;
+        width: 380px;
+    }
+}

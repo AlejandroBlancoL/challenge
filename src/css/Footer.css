@@ -1,0 +1,918 @@
+.contenedorFo{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    height: 598px;
+    top: 260%;
+    bottom: 0%;
+    width: 100%;
+    background: #FD9255;
+    border-radius: 0px;
+}
+.imagenC{
+    position: absolute;
+    width: 84.88px;
+    height: 88.36px;
+    top: 130px;
+    left: 396px;
+}
+.textoF{
+    position: absolute;
+    left: 20.86%;
+    right: 65.16%;
+    top: 39.97%;
+    bottom: 39.97%;
+    width: 200px;
+    text-align: start;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.twitter{
+    position: absolute;
+    left: 405px;
+    right: 0%;
+    top: 410px;
+    bottom: 8.98%;
+}
+.face{
+    position: absolute;
+    left: 457px;
+    right: 0%;
+    top: 409px;
+    bottom: 0%;
+}
+.insta{
+    position: absolute;
+    left: 508px;
+    right: 0%;
+    top: 409px;
+    bottom: 0%;
+}
+.twitterC{
+    position: absolute;
+    left: 20.86%;
+    right: 77.25%;
+    top: 67.06%;
+    bottom: 26.92%;
+    
+    border: 3px solid #FFFFFF;
+    border-radius: 18px;
+}
+.faceC{
+    position: absolute;
+    left: 23.59%;
+    right: 74.51%;
+    top: 67.06%;
+    bottom: 26.92%;
+    border: 3px solid #FFFFFF;
+    border-radius: 18px;
+}
+.instaC{
+    position: absolute;
+    left: 26.33%;
+    right: 71.78%;
+    top: 67.06%;
+    bottom: 26.92%;
+    
+    border: 3px solid #FFFFFF;
+    border-radius: 18px;
+}
+.t2{
+    position: absolute;
+    left: 41.83%;
+    right: 52.5%;
+    top: 23.91%;
+    bottom: 71.07%;
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+}
+.t3{
+    position: absolute;
+    left: 41.83%;
+    right: 55.96%;
+    top: 38.29%;
+    bottom: 54.18%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.t4{
+    position: absolute;
+    left: 41.83%;
+    right: 52.39%;
+    top: 45.82%;
+    bottom: 46.66%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.t5{
+    position: absolute;
+    left: 41.83%;
+    right: 50.92%;
+    top: 53.34%;
+    bottom: 39.13%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.t6{
+    position: absolute;
+    left: 41.83%;
+    right: 55.75%;
+    top: 60.87%;
+    bottom: 31.61%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+
+.t7{
+    position: absolute;
+    left: 55.12%;
+    right: 39.1%;
+    top: 23.91%;
+    bottom: 71.07%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.t8{
+    position: absolute;
+    left: 55.1%;
+    right: 39.95%;
+    top: 38.29%;
+    bottom: 54.18%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.t9{
+    position: absolute;
+    left: 55.12%;
+    right: 38.94%;
+    top: 45.82%;
+    bottom: 46.66%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.t10{
+    position: absolute;
+    left: 55.12%;
+    right: 39.04%;
+    top: 53.34%;
+    bottom: 39.13%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.t11{
+    position: absolute;
+    left: 55.12%;
+    right: 40.46%;
+    top: 60.87%;
+    bottom: 31.61%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.t12{
+    position: absolute;
+    left: 55.12%;
+    right: 40.83%;
+    top: 68.39%;
+    bottom: 24.08%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+
+.t13{
+    position: absolute;
+    left: 67.1%;
+    right: 25.85%;
+    top: 23.91%;
+    bottom: 71.07%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.t14{
+    position: absolute;
+    left: 67.1%;
+    right: 21.7%;
+    top: 39.13%;
+    bottom: 55.85%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.t15{
+    position: absolute;
+    left: 67.1%;
+    right: 24.59%;
+    top: 45.82%;
+    bottom: 49.16%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.t16{
+    position: absolute;
+    left: 67.1%;
+    right: 20.81%;
+    top: 52.51%;
+    bottom: 42.47%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.nose{
+    width: 233px;
+    height: 64px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 1277px;
+    right: 0%;
+    top: 372px;
+    bottom: 0.04%;
+    border: 3px solid #FFFFFF;
+}
+.what{
+    position: absolute;
+    left: 1311px;
+    right: 0%;
+    top: 383px;
+    bottom: 0%;
+}
+
+@media (min-width: 320px){
+    .contenedorFo{
+        top: 3900px;
+        width: 100%;
+    }
+    .imagenC{
+        top: 0;
+        left: 0;
+    }
+    .textoF{
+        width: 200px;
+        top: 10px;
+        left: 100px;
+    }
+    .twitterC{display: none;}
+    .faceC{display: none;}
+    .instaC{display: none;}
+    .twitter{left: 100px; top: 140px;}
+    .face{left: 180px; top: 140px;}
+    .insta{left: 250px; top: 140px;}
+    .t2{top: 190px; width: 250px; left: 120px;}
+    .t3{top: 220px; width: 250px; left: 20px;}
+    .t4{top: 220px; width: 250px; left: 110px;}
+    .t5{top: 250px; width: 250px; left: 100px;}
+    .t6{top: 220px; width: 250px; left: 250px;}
+    .t7{top: 290px; left: 120px; width: 250px;}
+
+    .t8{top: 310px; width: 250px; left: 20px;}
+    .t9{top: 310px; width: 250px; left: 160px;}
+    .t10{top: 310px; width: 250px; left: 260px;}
+    .t11{top: 340px; width: 250px; left: 60px;}
+    .t12{top: 340px; width: 250px; left: 180px;}
+
+    .t13{top: 380px; width: 250px; left: 110px;}
+    .t14{top: 410px; width: 250px; left: 100px;}
+    .t15{top: 440px; width: 250px; left: 90px;}
+    .t16{top: 470px; width: 250px; left: 80px;}
+    .what{width: 100px; left: 120px; top: 530px;}
+    .nose{left: 100px; width: 140px; top: 509px;}
+}
+
+/* @media (min-width: 425px){
+    .contenedorFo{
+        top: 3900px;
+        width: 100%;
+    }
+    .imagenC{
+        top: 0;
+        left: 20px;
+    }
+    .textoF{
+        width: 230px;
+        top: 10px;
+        left: 135px;
+    }
+    .twitterC{display: none;}
+    .faceC{display: none;}
+    .instaC{display: none;}
+    .twitter{left: 100px; top: 140px;}
+    .face{left: 180px; top: 140px;}
+    .insta{left: 250px; top: 140px;}
+    .t2{top: 190px; width: 250px; left: 155px;}
+    .t3{top: 220px; width: 250px; left: 65px;}
+    .t4{top: 220px; width: 250px; left: 155px;}
+    .t5{top: 250px; width: 250px; left: 135px;}
+    .t6{top: 220px; width: 250px; left: 295px;}
+    .t7{top: 290px; left: 155px; width: 250px;}
+
+    .t8{top: 310px; width: 250px; left: 65px;}
+    .t9{top: 310px; width: 250px; left: 205px;}
+    .t10{top: 310px; width: 250px; left: 305px;}
+    .t11{top: 340px; width: 250px; left: 95px;}
+    .t12{top: 340px; width: 250px; left: 215px;}
+
+    .t13{top: 380px; width: 250px; left: 145px;}
+    .t14{top: 410px; width: 250px; left: 135px;}
+    .t15{top: 440px; width: 250px; left: 125px;}
+    .t16{top: 470px; width: 250px; left: 115px;}
+    .what{width: 100px; left: 155px; top: 530px;}
+    .nose{left: 135px; width: 140px; top: 509px;}
+} */
+
+@media (min-width: 768px){
+
+    .contenedorFo{
+        top: 3900px;
+        width: 100%;
+    }
+    .imagenC{
+        top: 0;
+        left: 20px;
+    }
+    .textoF{
+        width: 260px;
+        top: 15px;
+        left: 135px;
+    }
+    .twitterC{display: none;}
+    .faceC{display: none;}
+    .instaC{display: none;}
+    .twitter{left: 400px; top: 80px;}
+    .face{left: 500px; top: 80px;}
+    .insta{left: 600px; top: 80px;}
+    .t2{top: 190px; width: 250px; left: 155px;}
+    .t3{top: 220px; width: 250px; left: 65px;}
+    .t4{top: 220px; width: 250px; left: 155px;}
+    .t5{top: 250px; width: 250px; left: 135px;}
+    .t6{top: 220px; width: 250px; left: 295px;}
+    
+    .t7{top: 190px; left: 500px; width: 250px;}
+    .t8{top: 220px; width: 250px; left: 420px;}
+    .t9{top: 220px; width: 250px; left: 550px;}
+    .t10{top: 220px; width: 250px; left: 640px;}
+    .t11{top: 250px; width: 250px; left: 450px;}
+    .t12{top: 250px; width: 250px; left: 580px;}
+
+    .t13{top: 380px; width: 250px; left: 145px;}
+    .t14{top: 410px; width: 250px; left: 135px;}
+    .t15{top: 440px; width: 250px; left: 125px;}
+    .t16{top: 470px; width: 250px; left: 115px;}
+    .what{width: 140px; left: 490px; top: 430px;}
+    .nose{left: 470px; width: 180px; top: 416px;}
+}
+
+@media (min-width: 1600px){
+    .contenedorFo{
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        height: 598px;
+        top: 260%;
+        bottom: 0%;
+        width: 100%;
+        background: #FD9255;
+        border-radius: 0px;
+    }
+    .imagenC{
+        position: absolute;
+        width: 84.88px;
+        height: 88.36px;
+        top: 130px;
+        left: 396px;
+    }
+    .textoF{
+        position: absolute;
+        left: 20.86%;
+        right: 65.16%;
+        top: 39.97%;
+        bottom: 39.97%;
+        width: 200px;
+        text-align: start;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .twitter{
+        position: absolute;
+        left: 405px;
+        right: 0%;
+        top: 410px;
+        bottom: 8.98%;
+    }
+    .face{
+        position: absolute;
+        left: 457px;
+        right: 0%;
+        top: 409px;
+        bottom: 0%;
+    }
+    .insta{
+        position: absolute;
+        left: 508px;
+        right: 0%;
+        top: 409px;
+        bottom: 0%;
+    }
+    .twitterC{
+        position: absolute;
+        left: 20.86%;
+        right: 77.25%;
+        top: 67.06%;
+        bottom: 26.92%;
+        display: block;
+        border: 3px solid #FFFFFF;
+        border-radius: 18px;
+    }
+    .faceC{
+        position: absolute;
+        left: 23.59%;
+        right: 74.51%;
+        top: 67.06%;
+        bottom: 26.92%;
+        border: 3px solid #FFFFFF;
+        border-radius: 18px;
+        display: block;
+    }
+    .instaC{
+        display: block;
+        position: absolute;
+        left: 26.33%;
+        right: 71.78%;
+        top: 67.06%;
+        bottom: 26.92%;
+        
+        border: 3px solid #FFFFFF;
+        border-radius: 18px;
+    }
+    .t2{
+        position: absolute;
+        left: 41.83%;
+        right: 52.5%;
+        top: 23.91%;
+        bottom: 71.07%;
+        color: #FFFFFF;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .t3{
+        position: absolute;
+        left: 41.83%;
+        right: 55.96%;
+        top: 38.29%;
+        bottom: 54.18%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+    .t4{
+        position: absolute;
+        left: 41.83%;
+        right: 52.39%;
+        top: 45.82%;
+        bottom: 46.66%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+    .t5{
+        position: absolute;
+        left: 41.83%;
+        right: 50.92%;
+        top: 53.34%;
+        bottom: 39.13%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+    .t6{
+        position: absolute;
+        left: 41.83%;
+        right: 55.75%;
+        top: 60.87%;
+        bottom: 31.61%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+    
+    .t7{
+        position: absolute;
+        left: 55.12%;
+        right: 39.1%;
+        top: 23.91%;
+        bottom: 71.07%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .t8{
+        position: absolute;
+        left: 55.1%;
+        right: 39.95%;
+        top: 38.29%;
+        bottom: 54.18%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+    .t9{
+        position: absolute;
+        left: 55.12%;
+        right: 38.94%;
+        top: 45.82%;
+        bottom: 46.66%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+    .t10{
+        position: absolute;
+        left: 55.12%;
+        right: 39.04%;
+        top: 53.34%;
+        bottom: 39.13%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+    .t11{
+        position: absolute;
+        left: 55.12%;
+        right: 40.46%;
+        top: 60.87%;
+        bottom: 31.61%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+    .t12{
+        position: absolute;
+        left: 55.12%;
+        right: 40.83%;
+        top: 68.39%;
+        bottom: 24.08%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+    
+    .t13{
+        position: absolute;
+        left: 67.1%;
+        right: 25.85%;
+        top: 23.91%;
+        bottom: 71.07%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .t14{
+        position: absolute;
+        left: 67.1%;
+        right: 21.7%;
+        top: 39.13%;
+        bottom: 55.85%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .t15{
+        position: absolute;
+        left: 67.1%;
+        right: 24.59%;
+        top: 45.82%;
+        bottom: 49.16%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .t16{
+        position: absolute;
+        left: 67.1%;
+        right: 20.81%;
+        top: 52.51%;
+        bottom: 42.47%;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    
+    .nose{
+        width: 233px;
+        height: 64px;
+        box-sizing: border-box;
+        position: absolute;
+        left: 1277px;
+        right: 0%;
+        top: 372px;
+        bottom: 0.04%;
+        border: 3px solid #FFFFFF;
+    }
+    .what{
+        position: absolute;
+        left: 11px;
+        right: 0%;
+        top: 383px;
+        bottom: 0%;
+    }
+}
+
+@media (min-width: 1025px){
+    .contenedorFo{top: 2600px;}
+    .imagenC{top: 60px;left: 60px;}
+    .textoF{left: 60px;top: 160px; width: 200px;}
+    .twitter{left: 80px;top: 300px;}
+    .face{ left: 140px;top: 300px;}
+    .insta{left: 200px;top: 300px;}
+    .twitterC{
+        left: 70px;
+        top: 290px;
+        border-radius: 18px;
+        width: 40px;
+        height: 40px;
+    }
+    .faceC{
+        left: 130px;
+        top: 290px;
+        width: 40px;
+        height: 40px;
+    }
+    .instaC{
+        left: 190px;
+        top: 290px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .t2{left: 350px;top: 23.91%;}
+    .t3{left: 350px;top: 38.29%;}
+    .t4{left: 350px;top: 45.82%;}
+    .t5{left: 350px;top: 53.34%;}
+    .t6{left: 350px;top: 60.87%;}
+    
+    .t7{
+        left: 55.12%;
+        top: 23.91%;
+    }
+    .t8{
+        width: 100px;
+        left: 55.1%;
+        top: 38.29%;
+    }
+    .t9{
+        left: 55.12%;
+        top: 45.82%;
+    }
+    .t10{
+        left: 55.12%;
+        top: 53.34%;
+    }
+    .t11{
+        left: 55.12%;
+        top: 60.87%;
+    }
+    .t12{
+        left: 55.12%;
+        top: 68.39%;
+    }
+    
+    .t13{
+        width: 200px;
+        left: 780px;
+        top: 23.91%;
+    }
+    .t14{
+        width: 200px;
+        left: 780px;
+        top: 39.13%;
+    }
+    .t15{
+        width: 200px;
+        left: 780px;
+        top: 45.82%;
+    }
+    .t16{
+        width: 200px;
+        left: 780px;
+        top: 52.51%;
+    }
+    
+    .nose{
+        left: 760px;
+        top: 372px;
+    }
+    .what{
+        left: 780px;
+        top: 383px;
+    }
+}
+
+@media (min-width: 1440px){
+    .contenedorFo{top: 2600px;}
+    .imagenC{top: 60px;left: 60px;}
+    .textoF{left: 60px;top: 160px; width: 200px;}
+    .twitter{left: 80px;top: 300px;}
+    .face{ left: 140px;top: 300px;}
+    .insta{left: 200px;top: 300px;}
+    .twitterC{
+        left: 70px;
+        top: 290px;
+        border-radius: 18px;
+        width: 40px;
+        height: 40px;
+    }
+    .faceC{
+        left: 130px;
+        top: 290px;
+        width: 40px;
+        height: 40px;
+    }
+    .instaC{
+        left: 190px;
+        top: 290px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .t2{left: 450px;top: 23.91%;}
+    .t3{left: 450px;top: 38.29%;}
+    .t4{left: 450px;top: 45.82%;}
+    .t5{left: 450px;top: 53.34%;}
+    .t6{left: 450px;top: 60.87%;}
+    
+    .t7{
+        left: 700px;
+        top: 23.91%;
+    }
+    .t8{
+        left: 700px;
+        top: 38.29%;
+    }
+    .t9{
+        left: 700px;
+        top: 45.82%;
+    }
+    .t10{
+        left: 700px;
+        top: 53.34%;
+    }
+    .t11{
+        left: 700px;
+        top: 60.87%;
+    }
+    .t12{
+        left: 700px;
+        top: 68.39%;
+    }
+    
+    .t13{
+        width: 200px;
+        left: 980px;
+        top: 23.91%;
+    }
+    .t14{
+        width: 200px;
+        left: 980px;
+        top: 39.13%;
+    }
+    .t15{
+        width: 200px;
+        left: 980px;
+        top: 45.82%;
+    }
+    .t16{
+        width: 200px;
+        left: 980px;
+        top: 52.51%;
+    }
+    
+    .nose{
+        left: 960px;
+        top: 372px;
+    }
+    .what{
+        left: 980px;
+        top: 383px;
+    }
+}
+
+@media (min-width: 2560px){
+    .twitterC{left: 395px; width: 40px;}
+    .faceC{left: 446px; width: 40px;}
+    .instaC{left: 499px; width: 40px;}
+    .what{left: 1700px;}
+    .nose{left: 1670px;}
+
+    .textoF{font-size: 25px; top: 140px; width: 300px;}
+}
