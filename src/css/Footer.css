@@ -340,7 +340,7 @@
     .nose{left: 100px; width: 140px; top: 509px;}
 }
 
-/* @media (min-width: 425px){
+ @media (min-width: 375px){
     .contenedorFo{
         top: 3900px;
         width: 100%;
@@ -379,7 +379,7 @@
     .t16{top: 470px; width: 250px; left: 115px;}
     .what{width: 100px; left: 155px; top: 530px;}
     .nose{left: 135px; width: 140px; top: 509px;}
-} */
+}
 
 @media (min-width: 768px){
 

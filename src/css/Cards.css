@@ -1271,24 +1271,24 @@ border: 1px solid #000000;
     .descuentoV{left: 220px;}
 }
 
-/* @media (min-width: 425px){
+@media (min-width: 375px){
     .contenedorCarta{
         top: 250px;
-        left: 80px;
+        left: 90px;
     }
     .menos{
         top: 480px;
-        left: 95px;
+        left: 105px;
         width: 40px;
     }
     .rec{
         top: 480px;
-        left: 135px;
+        left: 145px;
         width: 89px;
     }
     .mas{
         top: 480px;
-        left: 225px;
+        left: 235px;
         width: 40px;
     }
     .num{
@@ -1296,172 +1296,172 @@ border: 1px solid #000000;
     }
     .contenedorCarta2{
         top: 560px;
-        left: 80px;
+        left: 90px;
     }
     .menos2{
         width: 40px;
         top: 790px;
-        left: 95px;
+        left: 105px;
     }
     .mas2{
         width: 40px;
         top: 790px;
-        left: 225px;
+        left: 235px;
     }
     .count2{
         width: 89px;
         top: 790px;
-        left: 135px;
+        left: 145px;
     }
     .contenedorCarta3{
-        left: 80px;
+        left: 90px;
         top: 860px;
     }
     .menos3{
-        left: 95px;
+        left: 105px;
         width: 40px;
         top: 1090px;
     }
     .mas3{
         width: 40px;
         top: 1090px;
-        left: 225px;
+        left: 235px;
     }
     .count3{
         width: 89px;
         top: 1090px;
-        left: 135px;
+        left: 145px;
     }
     .contenedorCarta4{
-        left: 80px;
+        left: 90px;
         top: 1160px;
     }
     .menos4{
-        left: 95px;
+        left: 105px;
         width: 40px;
         top: 1390px;
     }
     .mas4{
-        left: 225px;
+        left: 235px;
         width: 40px;
         top: 1390px;
     }
     .count4{
         width: 89px;
-        left: 135px;
+        left: 145px;
         top: 1390px;
     }
     .contenedorCarta5{
-        left: 80px;
+        left: 90px;
         top: 1460px;
     }
     .menos5{
-        left: 95px;
+        left: 105px;
         width: 40px;
         top: 1690px;
     }
     .mas5{
-        left: 225px;
+        left: 235px;
         width: 40px;
         top: 1690px;
     }
     .count5{
-        left: 135px;
+        left: 145px;
         width: 89px;
         top: 1690px;
     }
     .contenedorCarta6{
-        left: 80px;
+        left: 90px;
         top: 1760px;
     }
     .menos6{
-        left: 95px;
+        left: 105px;
         width: 40px;
         top: 1990px;
     }
     .mas6{
-        left: 225px;
+        left: 235px;
         width: 40px;
         top: 1990px;
     }
     .count6{
-        left: 135px;
+        left: 145px;
         width: 89px;
         top: 1990px;
     }
     .contenedorCarta7{
-        left: 80px;
+        left: 90px;
         top: 2060px;
     }
     .menos7{
-        left: 95px;
+        left: 105px;
         width: 40px;
         top: 2300px;
     }
     .mas7{
-        left: 225px;
+        left: 235px;
         width: 40px;
         top: 2300px;
     }
     .count7{
-        left: 135px;
+        left: 145px;
         width: 89px;
         top: 2300px;
     }
     .contenedorCarta8{
-        left: 80px;
+        left: 90px;
         top: 2360px;
     }
     .menos8{
-        left: 95px;
+        left: 105px;
         width: 40px;
         top: 2590px;
     }
     .mas8{
-        left: 225px;
+        left: 235px;
         width: 40px;
         top: 2590px;
     }
     .count8{
-        left: 135px;
+        left: 145px;
         width: 89px;
         top: 2590px;
     }
     .contenedorCarta9{
-        left: 80px;
+        left: 90px;
         top: 2650px;
     }
     .menos9{
-        left: 95px;
+        left: 105px;
         width: 40px;
         top: 2880px;
     }
     .mas9{
-        left: 225px;
+        left: 235px;
         width: 40px;
         top: 2880px;
     }
     .count9{
-        left: 135px;
+        left: 145px;
         width: 89px;
         top: 2880px;
     }
     .contenedorCarta10{
-        left: 80px;
+        left: 90px;
         top: 2950px;
     }
     .menos10{
-        left: 95px;
+        left: 105px;
         width: 40px;
         top: 3180px;
     }
     .mas10{
-        left: 225px;
+        left: 235px;
         width: 40px;
         top: 3180px;
     }
     .count10{
-        left: 135px;
+        left: 145px;
         width: 89px;
         top: 3180px;
     }
@@ -1488,7 +1488,7 @@ border: 1px solid #000000;
     .taxV{left: 245px;}
     .total2V{left: 245px;}
     .descuentoV{left: 245px;}
-} */
+} 
 
 @media (min-width: 768px){
     .contenedorCarta{

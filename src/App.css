@@ -52,19 +52,19 @@
     }
 }
 
-/* @media (min-width: 425px){
+@media (min-width: 375px){
     .texto1{
         top: 80px;
-        left: -170px;
+        left: -160px;
         font-size: 20px;
     }
     .texto2{
         top: 120px;
-        left: 35px;
+        left: 45px;
         font-size: 12px;
         width: 300px;
     }
-} */
+} 
 
 @media (min-width: 768px){
     .texto1{
